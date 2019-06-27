@@ -11,7 +11,7 @@ Projeto CRUD desenvolvido em Javascript com os seguintes recursos/ferramentas:
 # Como utilizar
 
   - Clonar o repositório git em qualquer diretório.
-  - Executar o script SQL 'db.sql' que acompanha o projeto.
+  - Executar o script SQL 'db.sql' que acompanha o projeto e só depois executar o app.js.
 
 Também é possível:
   - Usar o nodemon para atualizar a aplicação node.
