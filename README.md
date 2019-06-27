@@ -45,7 +45,7 @@ OBS2: ao realizar o source do script serão inseridos 10 alunos.
 | Plugin | README |
 | ------ | ------ |
 | GET (SELECT) | api/alunos |
-| GET BY ID (SELECT BY ID)| api/alunos/<id> |
+| GET BY ID (SELECT BY ID)| api/alunos/<AlunoId> |
 | POST (CREATE)| api/alunos/criar |
 | PUT (UPDATE)| api/alunos/<id> |
 | DELETE (DELETE)| api/alunos/<id> |
