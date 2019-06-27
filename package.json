@@ -1,0 +1,25 @@
+{
+  "name": "trabalho_labdb",
+  "version": "1.0.0",
+  "description": "crud com sequelize e mariadb",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mariadb": "^2.0.5",
+    "sequelize": "^5.8.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pedro9128/crudlabdb.git"
+  },
+  "author": "Pedro Coelho <pedrcoelho9128@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedro9128/crudlabdb/issues"
+  },
+  "homepage": "https://github.com/pedro9128/crudlabdb#readme"
+}
