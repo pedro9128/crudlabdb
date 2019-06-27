@@ -38,8 +38,8 @@ Comando para criação e inserção do banco de dados.
 $ mysql -u root -p
 $ source $USERDIR/db.sql
 ```
-OBS: MODIFICAR config/env.js E TROCAR O USERNAME E SENHA SE NECESSÁRIO.
-OBS2: ao realizar o source do script serão inseridos 10 alunos.
+OBS: MODIFICAR config/env.js E TROCAR O USERNAME E SENHA.
+
 ### URLS (REQ. E RES.)
 
 | Plugin | README |
