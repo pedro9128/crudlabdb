@@ -45,10 +45,10 @@ OBS2: ao realizar o source do script serão inseridos 10 alunos.
 | Plugin | README |
 | ------ | ------ |
 | GET (SELECT) | api/alunos |
-| GET BY ID (SELECT BY ID)| api/alunos/<AlunoId> |
+| GET BY ID (SELECT BY ID)| api/alunos/ID |
 | POST (CREATE)| api/alunos/criar |
-| PUT (UPDATE)| api/alunos/<id> |
-| DELETE (DELETE)| api/alunos/<id> |
+| PUT (UPDATE)| api/alunos/ID |
+| DELETE (DELETE)| api/alunos/ID |
 
    [node.js]: <http://nodejs.org>
    [MariaDB]: <https://mariadb.org>
