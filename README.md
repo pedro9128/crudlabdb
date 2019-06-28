@@ -11,7 +11,7 @@ Projeto CRUD desenvolvido em Javascript com os seguintes recursos/ferramentas:
 # Como utilizar
 
   - Clonar o repositório git em qualquer diretório.
-  - Executar o script SQL 'db.sql' que acompanha o projeto.
+  - Executar o script SQL 'db.sql' que acompanha o projeto e só depois executar o app.js.
 
 Também é possível:
   - Usar o nodemon para atualizar a aplicação node.
@@ -38,8 +38,8 @@ Comando para criação e inserção do banco de dados.
 $ mysql -u root -p
 $ source $USERDIR/db.sql
 ```
-OBS: MODIFICAR config/env.js E TROCAR O USERNAME E SENHA SE NECESSÁRIO.
-OBS2: ao realizar o source do script serão inseridos 10 alunos.
+OBS: MODIFICAR config/env.js E TROCAR O USERNAME E SENHA.
+
 ### URLS (REQ. E RES.)
 
 | Plugin | README |
