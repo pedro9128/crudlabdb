@@ -1,7 +1,7 @@
 const env = {
     database: 'alunos',
     username: 'root',
-    password: '9a1b3m',
+    password: '23456',
     host: 'localhost',
     dialect: 'mariadb',
     pool: {
